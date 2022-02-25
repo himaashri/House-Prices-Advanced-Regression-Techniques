@@ -1,3 +1,11 @@
+# About
+House Prices Advanced Regression Techniques is a datascience competition with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The aim of the competition is to predict the final price of each house. 
+
+## Folders Description 
+	train.csv - Traning Data
+	test.csv  - Test Data	
+	sample_subbmission.csv - File with sample sumbission format 
+# Description of Data (features)
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
